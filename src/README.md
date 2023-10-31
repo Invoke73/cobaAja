@@ -1,3 +1,5 @@
+#Description
+
 * What is this repository use for?
   1. mengetahui cara menggunakan live template dari intellij
   2. penggunaan JavaDoc dengan tag nya
@@ -20,3 +22,6 @@
       * Lowercase untuk membuat semua kata input user menjadi kecil semua
       * Replace all untuk mengubah semua huruf sesuai yang tidak sesuai dengan regex akan dihilangkan
       * gunakan regex [a-zA-z0-9] untuk ketentuan huruf yang ingin dihilangkan
+
+#Contributor 
+[https://github.com/Invoke73]
